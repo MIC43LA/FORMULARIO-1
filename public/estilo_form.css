@@ -1,0 +1,44 @@
+
+input{
+    padding: 7px;
+    border-radius: 50px;
+    border-width: 1px;
+}
+select{
+    padding: 7px;
+    border-radius: 50px;
+    border-width: 1px;
+}
+form >div{
+    margin: 15px;
+}
+.formulario{
+    border-width: 1px;
+    border-color: darkblue;
+    border-style: solid;
+}
+
+.inputHC{
+    background-color:gold;
+
+}
+.inputHC:focus{
+    background-color:palevioletred;
+}
+.tituloHC{
+    color: azure;
+}
+.formHC{
+    background-color:darkgray;
+    color:azure
+}
+.bodyHC{
+    background-color: black;
+}
+.botonHC{
+    background-color: gold;
+
+}
+.botonHC:focus{
+    background-color: palevioletred;
+}
