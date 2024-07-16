@@ -25,6 +25,7 @@ function enviar() {
         alert("solo usuarios argentinos")
         return false;
     }
+    alert("formulario enviado")
 
     let form= document.getElementById("form").reset()
     }
