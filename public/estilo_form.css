@@ -1,5 +1,4 @@
-
-input{
+/* input{
     padding: 7px;
     border-radius: 50px;
     border-width: 1px;
@@ -16,7 +15,7 @@ form >div{
     border-width: 1px;
     border-color: darkblue;
     border-style: solid;
-}
+} */
 
 .inputHC{
     background-color:gold;
